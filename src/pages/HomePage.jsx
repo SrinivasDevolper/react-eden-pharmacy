@@ -5,7 +5,7 @@ import thirdImage from "../images/Group-8117.svg.svg";
 import sixImage from "../images/Group-8116.svg.svg";
 import fourImage from "../images/Group-8114.svg.svg";
 import fiveImage from "../images/Group-8115.svg.svg";
-import BetterIngredientsPage from "./BetterIngredientsPage.jsx";
+// import BetterIngredientsPage from "./BetterIngredientsPage.jsx";
 const EssentialItemsCont = ({ imgUrl, title, paragraph }) => (
   <div className="essential-cont-card-items">
     <img src={imgUrl} alt={title} />

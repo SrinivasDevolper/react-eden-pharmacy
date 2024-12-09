@@ -14,7 +14,7 @@ function BetterIngredientsPage() {
         <div className="item1">
           <div className="batter-plain-card">
             <p>Ingredients</p>
-            <h1>BetterIngredientsPage</h1>
+            <h1>Better Ingredients</h1>
             <p>
               Only the best when you choose products offered on our platform -
               high-quality ingredients for high quality products!
@@ -37,7 +37,7 @@ function BetterIngredientsPage() {
           <div className="vitamin-c1">
             <img src={vit5} className="vit-img" />
           </div>
-          <div className="vitamin-c1">
+          <div className="vitamin-c1 last-img">
             <img src={vit6} className="vit-img" />
           </div>
         </div>
